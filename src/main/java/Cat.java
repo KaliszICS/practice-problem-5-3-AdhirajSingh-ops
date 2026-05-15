@@ -1,4 +1,4 @@
-Cat.java
+
 public class Cat extends Animal {
     
     public Cat(String name, int age, String type, int position) {

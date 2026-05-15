@@ -1,4 +1,4 @@
-Bear.java
+
 
 
 public class Bear extends Animal {

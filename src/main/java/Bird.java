@@ -1,4 +1,4 @@
-Bird.java
+
 public class Bird extends Animal {
     
     public Bird(String name, int age, String type, int position) {
